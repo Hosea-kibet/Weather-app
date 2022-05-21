@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+
+        </title>
+        <link rel="stylesheet" href="/css/style.css">
+        
+    </head>
+    <body>
+        <h1>Help</h1>
+        <script src="./js/app.js"></script>
+    </body>
+</html>
